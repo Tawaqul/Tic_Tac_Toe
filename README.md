@@ -12,6 +12,9 @@ Play the classic game of Tic Tac Toe with our interactive web app, built using H
 # Built with:
 - HTML: Structuring the game board and user interface
 - CSS: Styling the game board and user interface for a visually appealing experience
-- JavaScript: Powering the game logic, computer opponent, and rea-time updates
+- JavaScript: Powering the game logic, computer opponent, and real-time updates
 # Get Started:
 Click the "Play" button to start a new game. Have fun playing Achievers Tic Tac Toe!
+
+
+Play <a href="https://tawaqul.github.io/Tic_Tac_Toe/">Here!</a>
